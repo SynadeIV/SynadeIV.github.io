@@ -35,6 +35,19 @@ h1, h2, h3, h4, h5, h6 {
   fill: #4691f6;
 }
 
+.competences{
+  text-align:center;
+  border : 1px solid black;
+  border-radius: 20px;
+  background-color: #7986cb;
+  display:inline-flex;
+}
+
+.competences2{
+  width: 100%;
+  height: auto;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
